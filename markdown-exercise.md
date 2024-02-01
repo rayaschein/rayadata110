@@ -23,7 +23,8 @@ My top 5 favorite characters are
 keeping track of the characters can be confusing, so lists that explain each character can be really useful
 [naruto list of characters] (https://en.wikipedia.org/wiki/List_of_Naruto_characters)
 
-while the show is exciting to watch, the charater also teach us life lessons, As Naruto Uzumaki said > "Once You Question Your Own Belief, It's Over."
+while the show is exciting to watch, the charater also teach us life lessons, As Naruto Uzumaki said:
+> "Once You Question Your Own Belief, It's Over."
 
 i have been so busy watching my new favorite show **Naruto** that i have ignore some of my homework, heres what i still need to do...
 - [x] Pre-lab for Biology
@@ -31,4 +32,4 @@ i have been so busy watching my new favorite show **Naruto** that i have ignore 
 - [ ] chapter two quiz for biology
 
 
-[^17]: this is Kakshi Hatake
+[^3]: Naruto was first a book series in japan before coming to american tv in 2005
