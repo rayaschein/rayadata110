@@ -14,6 +14,7 @@ My top 5 favorite characters are
 3. Naruto Uzumaki
 4. Tsunade
 5. Gaara
+[kakashi Hatake] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FNaruto%2Fcomments%2F13j29jj%2Fmy_drawing_kakashi_hatake%2F&psig=AOvVaw1yCFbqRD5U3AuOFj9dCLtL&ust=1706893922132000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjp7cDRioQDFQAAAAAdAAAAABAR) 
 
 keeping track of the characters can be confusing, so lists that explain each character can be really useful
 [naruto list of characters] (https://en.wikipedia.org/wiki/List_of_Naruto_characters)
