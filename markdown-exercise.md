@@ -26,6 +26,15 @@ keeping track of the characters can be confusing, so lists that explain each cha
 while the show is exciting to watch, the charater also teach us life lessons, As Naruto Uzumaki said:
 > "Once You Question Your Own Belief, It's Over."
 
+| Charater | | strength out of 10 |
+| -------- | | ------------------ |
+| Naruto   | | 9/10               |
+| Kakashi  | | 10/10              |
+| Tsunade  | | 7/10               |
+| Jiraya   | | 11/10              |
+| Gaara    | | 6/10               |
+
+
 i have been so busy watching my new favorite show **Naruto** that i have ignore some of my homework, heres what i still need to do...
 - [x] Pre-lab for Biology
 - [ ] chapter two questions for data science
